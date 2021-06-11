@@ -1,0 +1,56 @@
+body{
+    background-color: #344a72 ;
+    font-family: 'Roboto', sans-serif;
+}
+h1,#h1{
+    text-align: center  ;
+    font-family: 'Baloo Tammudu 2', cursive;
+    margin : 8px ;
+}
+#h1 {
+    color :red ;
+}
+.login{
+    background-color: whitesmoke;
+    width : 360px  ;
+    height : 400px  ;
+    margin: 20px auto;
+    border-radius: 2%;
+    box-shadow: 0  0 9px rgb(145, 233, 236);
+}
+
+
+form label{
+    display: flex ;
+    font-size: 18px ;
+    padding: 10px;
+}
+
+form input{
+  font-size : 14px ;
+  border  :none ; 
+  margin : 10px 0px ; 
+  padding : 10px ;
+  width : 90% ;
+}
+
+
+.btn {
+    width : 90% ;
+    font-size : 16px ;
+    background-color: rgb(60, 179, 110);
+    color : white ;
+    border  :none ;
+    border-radius: 2px ;
+    text-align: center ;
+    height : 35px ;
+    margin-left : 15px ;
+}
+
+.signup {
+    text-align: center ;
+}
+.signup a {
+    color :white ;
+    text-decoration: none ;
+}
