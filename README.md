@@ -18,3 +18,10 @@ Creates a table users in database user ,to store the details of  email , passwor
 4) html
 5) css
 6) javascript 
+
+## Samples 
+
+### Login -Page 
+
+![alt text](https://github.com/karthik-siru/Login_and_Sign_up_page/blob/main/samples/login.png) <br>
+![alt text](https://github.com/karthik-siru/Login_and_Sign_up_page/blob/main/samples/signup.png)
