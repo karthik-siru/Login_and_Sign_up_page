@@ -24,4 +24,7 @@ Creates a table users in database user ,to store the details of  email , passwor
 ### Login -Page 
 
 ![alt text](https://github.com/karthik-siru/Login_and_Sign_up_page/blob/main/samples/login.png) <br>
+
+### Sign up Page 
+
 ![alt text](https://github.com/karthik-siru/Login_and_Sign_up_page/blob/main/samples/signup.png)
