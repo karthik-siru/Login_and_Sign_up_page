@@ -16,6 +16,7 @@ def hello_world():
     try :
         cursor.execute("DROP table users ;")
     except :
+        cursor.execute("rollback");
         pass
     cursor.execute("CREATE TABLE users (id serial PRIMARY KEY, username text not null , password text not null , email text not null );")
  
